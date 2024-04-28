@@ -1,0 +1,16 @@
+{
+  "name": "logogen",
+  "version": "1.0.0",
+  "description": "the index file generates logos",
+  "main": "index.js",
+  "dependencies": {
+    "validator": "^13.11.0",
+    "inquirer": "8.2.4",
+    "colors": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theDorkTrain",
+  "license": "ISC"
+}
