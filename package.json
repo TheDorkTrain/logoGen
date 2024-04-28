@@ -9,8 +9,10 @@
     "colors": "^1.4.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "theDorkTrain",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"}
 }
