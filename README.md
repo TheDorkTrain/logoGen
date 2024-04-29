@@ -12,6 +12,10 @@ make sure to type "npm i" to get jest and inquirer and colors.
 By filling out the questions you can tailor an image generated to meet what you want
 https://app.screencastify.com/v3/watch/oCBuYmNgDGyUmRAclJ3O
 
+
+![image](https://github.com/TheDorkTrain/logoGen/assets/164428791/05333bb9-8ce2-46b1-8bc0-eb49ed298495)
+![image](https://github.com/TheDorkTrain/logoGen/assets/164428791/c5c0cac1-d1ec-40fd-a164-8f6d00ef9261)
+
 ## License
 Copyright 2024 theDorkTrain
 
